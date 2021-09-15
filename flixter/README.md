@@ -21,5 +21,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/RUkLQAA.gif)
 ![](https://i.imgur.com/ncaAvEL.gif)
+
+
+### Notes
+
+I'm not sure why, but my GIF initially wouldn't show up on GitHub despite looking fine on the HackMD preview. The GIF worked after I compressed it slightly and tried uploading again.
