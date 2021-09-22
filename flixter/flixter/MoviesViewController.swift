@@ -40,7 +40,8 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
 
              }
         }
-        task.resume()    }
+        task.resume()        
+    }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return movies.count
