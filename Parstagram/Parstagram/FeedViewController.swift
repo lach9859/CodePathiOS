@@ -36,6 +36,7 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         query.findObjectsInBackground { posts, Error in
             if posts !=  nil {
                 self.posts = posts!
+                self.posts = self.posts.reversed()
                 self.tableView.reloadData()
             }
         }
