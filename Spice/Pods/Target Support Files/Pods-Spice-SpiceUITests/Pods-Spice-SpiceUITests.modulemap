@@ -1,0 +1,6 @@
+framework module Pods_Spice_SpiceUITests {
+  umbrella header "Pods-Spice-SpiceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
